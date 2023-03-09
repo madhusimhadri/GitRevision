@@ -1,2 +1,4 @@
 
 My git practice
+
+Skipping staging area after the first commit
