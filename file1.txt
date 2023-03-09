@@ -2,3 +2,6 @@
 My git practice
 
 Skipping staging area after the first commit
+
+
+This is the error fix before merging the new branch with master. So the code in the master is not altered.
