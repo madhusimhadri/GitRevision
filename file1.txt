@@ -2,3 +2,5 @@
 My git practice
 
 Skipping staging area after the first commit
+
+This is an added line in after switching to new branch
