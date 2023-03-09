@@ -1,0 +1,2 @@
+
+Adding a new file in a New Branch to demonstrate Merge conflicts.

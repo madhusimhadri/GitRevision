@@ -4,4 +4,11 @@ My git practice
 Skipping staging area after the first commit
 
 
+
 This is the error fix before merging the new branch with master. So the code in the master is not altered.
+
+This is an added line in after switching to new branch.
+
+
+This line is created after file4 creation so as to demonstrate Merge conflicts
+
